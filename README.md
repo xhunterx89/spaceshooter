@@ -11,3 +11,5 @@ Trong một project unity những thành phần cơ bản nằm trong folder Ass
 
 Project đã được build chạy trên Window 7 bằng file SpaceShooter.exe.
 
+Reference: 
+http://unity3d.com/learn/tutorials/projects/space-shooter

@@ -8,5 +8,6 @@ Trong một project unity những thành phần cơ bản nằm trong folder Ass
 - Scene : chứa các màn chơi của game. Mỗi scene là một màn chơi đầy đủ.
 - Script : chứa các file code logic của game(có thể sử dụng js,c#,boo).
 - Textures : chứa các ảnh sử dụng trong game.
+
 Project đã được build chạy trên Window 7 bằng file SpaceShooter.exe.
 
